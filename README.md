@@ -1,4 +1,6 @@
-![Alt text](assets/logo.jpg?raw=true "BitrixDock")
+# Отличия форка
+В сборке PHP 7.1 добавлен msmtp
+В nginx исправлен баг с 404 ошибкой
 
 # BitrixDock
 BitrixDock позволяет легко и просто запускать **Bitrix CMS** на **Docker**.
