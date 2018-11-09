@@ -1,4 +1,4 @@
-FROM bitrixdock/php71-fpm:latest
+FROM itsfera/php71-fpm:latest
 
 MAINTAINER vitams
 
